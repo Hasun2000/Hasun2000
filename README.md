@@ -13,6 +13,7 @@
 
 - ⚡ Fun fact **I'm a Huge Anime Fan**
 </p>
+
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/kasun.eranga.7777) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hasun-eranda-adhipaththu/) 
 
