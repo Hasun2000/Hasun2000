@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hasun Eranda</h1>
 <h3 align="center">A passionate Game developer and Video Editor from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **MERN Project**
+- 🔭 I’m currently working on **MERN Project** and a simple **Unity Game**
 
-- 🌱 I’m currently learning **MERN, Unreal Engine, C#, Java**
+- 🌱 I’m currently learning **MERN, Unity Engine, C#, Java**
 
 - 🤝 I’m looking for help with **Image and Video Encryption Android App**
 
